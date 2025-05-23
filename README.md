@@ -1,6 +1,6 @@
-This repository includes all necessary code to run the simulation presented in the paper.
+This repository includes all the necessary code to run the simulation presented in the paper.
 
 
-**Compare the Predictive Performance of Standard and Oblique Random Survival Forest with Conventional Statistical Models in Time-to-Event Data: A Simulation Study**
+**Simulation-based evaluation of predictive performance: oblique random survival forest vs. standard random survival forest and traditional statistical models for time-to-event cardiovascular disease data**
 
  
